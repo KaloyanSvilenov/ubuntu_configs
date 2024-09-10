@@ -1,0 +1,5 @@
+default_profile = "mrkikos"
+
+[profiles.mrkikos]
+user_id = "@mrkikos:thestarlinker.net"
+
